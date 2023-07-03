@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am a graduate student at Harbin Institute of Technology.
+My interests include legged robots, UAVs, visual control, and so on. 
+In general, I can be stimulated by technology in all robotic fields.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skywoodsz&show_icons=true&theme=radical)
 
