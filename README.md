@@ -1,13 +1,20 @@
 ### Hi there 👋
 I am a graduate student at Harbin Institute of Technology.
 
-My interests include legged robots, UAVs, visual control, and so on. 
+My interests include optimal control, visual control, and so on. 
 
-In general, I can be stimulated by technology in all robotic fields.
+My research aims to make robots cognitive and athletic in real-world environments.
 
-More information about me can be found in https://skywoodsz.github.io/
+I’ve worked with legged robots, UAVs, and mobile manipulators.
+
+More information about me can be found at https://skywoodsz.github.io/
+
+### Current
+*I am looking for a Ph.D. position in Robotics.*
+*If you are interested, you can send me [email](skywoodszcn@gmail.com).*
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skywoodsz&show_icons=true&theme=radical)
+
 
 <!--
 **skywoodsz/skywoodsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
