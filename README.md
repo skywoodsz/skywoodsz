@@ -8,11 +8,11 @@ My research aims to make robots cognitive and athletic in real-world environment
 I’ve worked with legged robots, UAVs, and mobile manipulators.
 
 More information about me can be found at https://skywoodsz.github.io/
-
+<!--
 ### Current
 *I am looking for a Ph.D. position in Robotics.*
 *If you are interested, you can send me an email at <skywoodszcn@gmail.com>.*
-
+-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skywoodsz&show_icons=true&theme=radical)
 
 
