@@ -1,9 +1,7 @@
 ### Hi there 👋
-I am a graduate student at Harbin Institute of Technology.
+I am a master's student at Harbin Institute of Technology, Shenzhen.
 
 My interests include optimal control, visual control, and so on. 
-
-My research aims to make robots cognitive and athletic in real-world environments.
 
 I’ve worked with legged robots, UAVs, and mobile manipulators.
 
@@ -11,7 +9,7 @@ More information about me can be found at https://skywoodsz.github.io/
 
 ### Current
 *I am looking for a Ph.D. position in Robotics.*
-*If you are interested in my research, please contact me by email at <skywoodszcn@gmail.com>.*
+*If you are interested in my research, please contact me at <skywoodszcn@gmail.com>.*
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skywoodsz&show_icons=true&theme=radical)
 
