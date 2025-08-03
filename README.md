@@ -1,11 +1,7 @@
 ### Hi there 👋
 I am a Ph.D. student at The Chinese University of Hong Kong.
-
-My research interests include whole-body control, multi-contact planning, and related areas in robotics.
-
-I’ve worked with legged robots, UAVs, and mobile manipulators.
-
-More information about me can be found at https://skywoodsz.github.io/.
+My research interests focus on whole-body control, multi-contact planning, and other related areas in robotics.
+Further information about me is available at https://skywoodsz.github.io/.
 
 <!--
 ### Current
