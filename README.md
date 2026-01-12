@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Ph.D. student at The Chinese University of Hong Kong.
+I am a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. Liu Yun-Hui at the [Legged Robot Lab](https://cuhkleggedrobotlab.github.io/).
 
 My research interests focus on whole-body control, multi-contact planning, and other related areas in robotics.
 
